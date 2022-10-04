@@ -2,6 +2,7 @@ This project was bootstrapped with [Create Eth App](https://github.com/paulrberg
 
 ## Project Structure
 
+# You can start  npm run react-app:start in terminal <br/>
 The default template is a monorepo created with [Yarn Workspaces](https://classic.yarnpkg.com/en/docs/workspaces/).
 
 Workspaces makes it possible to setup multiple packages in such a way that we only need to run `yarn install` once to install all of them in
